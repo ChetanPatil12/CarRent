@@ -8,7 +8,7 @@ const TripPlan = () => {
 
               <div className='grid grid-cols-3 max-[635px]:grid-cols-2 max-[420px]:grid-cols-1 gap-8  mt-4'>
                 <div className="flex flex-col items-center">
-                    <img src="/icons/selectCar.png" alt="" className='w-[130px]'  />
+                    <img src="/icons/SelectCar.png" alt="" className='w-[130px]'  />
                     <h3 className='font-bold '>Select Car</h3>
                     <p className='w-[80%] text-sm mt-2 text-center'>We offers a big range of vehicles for all your driving needs. We have the perfect car to meet your needs</p>
                 </div>

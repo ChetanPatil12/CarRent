@@ -30,7 +30,7 @@ const Navbar = () => {
     }
   
   return (
-    <div className=' flex justify-between items-center px-6 min-[1300px]:px-20 min-[1400px]:px-28 pt-8 pb-4'>
+    <div className=' flex justify-between items-center px-6 min-[1300px]:px-20 min-[1400px]:px-28 pt-8 pb-4 '>
         <div className="flex items-center gap-4">
           <img src="/icons/carLogo.png" alt="Logo" className='h-8  logo' style={{filter:"invert(37%) sepia(94%) saturate(2255%) hue-rotate(342deg) brightness(103%) contrast(101%)"}}/>
           <div className=''><p className='text-2xl font-extrabold leading-[1rem]'>CAR</p><p className='font-semibold text-lg'>Rental</p></div>

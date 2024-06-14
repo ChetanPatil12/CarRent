@@ -15,7 +15,7 @@ const Footer = () => {
                 <img src="/icons/telephone.png" className='w-4' alt="" /> <p className=' font-bold'>123-344-545</p>
             </div>
             <div className='flex items-center gap-2'>
-                <img src="/icons/email.png" className='w-4' alt="" /> <p className=' font-bold'>carrental@email.com</p>
+                <img src="/icons/email.png" className='w-6' alt="" /> <p className=' font-bold'>carrental@email.com</p>
             </div>
         </div>
         <div className='flex flex-col gap-2'>

@@ -5,7 +5,7 @@ const Faq = () => {
   return (
     <div className='flex flex-col justify-center border-t-2 items-center  py-16 bg-cover bg-center bg-[url("https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")]'>
     <div className='text-center '>
-        <h3 className='text-4xl font-bold text-white'>FAQ</h3>
+        <h3 className='text-4xl font-bold text-white bg-transparent '>FAQ</h3>
         <h1 className='font-bold text-2xl mt-4 text-white '>Frequently Asked Questions </h1>
 
     </div>
